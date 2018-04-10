@@ -10,7 +10,7 @@ Buradan ADEO ekibine teşekkür ederiz.
 ## MİSC 300 
 
 
-<img src="..\images\\Misc300.png">
+<img src="..\images\Misc300.png">
 ![Screenshot from 2018-04-01 11-18-34.png]({{site.baseurl}}/_images/Screenshot from 2018-04-01 11-18-34.png)
 
 
