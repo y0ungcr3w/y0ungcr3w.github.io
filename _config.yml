@@ -1,0 +1,26 @@
+# Site settings
+title:          y0ungcr3w
+description:    "---"
+url:            "https://y0ungcr3w.github.io"
+
+# Author
+author:
+  name:         y0ungcr3w
+  url:          
+  email:        
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
